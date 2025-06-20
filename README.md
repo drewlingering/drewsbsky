@@ -22,7 +22,7 @@ _Create a site or blog from your GitHub repositories with GitHub Pages_
 
 _Congratulations friend, you've completed this course!_
 
-![My Image](/assets/img/banner1.jpg)
+![My Image](/_assets/img/banner1.jpg)
 
 Your blog is now live and has been deployed!
 
