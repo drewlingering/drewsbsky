@@ -7,12 +7,11 @@
   Add your open source license, GitHub uses MIT license.
 -->
 </header>
-<header>
+
 ## GitHub Pages ##
 
 _Create a site or blog from your GitHub repositories with GitHub Pages_
 
-</header>
 
 <!--
   <<< Author notes: Finish >>>
