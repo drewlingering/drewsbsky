@@ -22,8 +22,7 @@ _Create a site or blog from your GitHub repositories with GitHub Pages_
 
 _Congratulations friend, you've completed this course!_
 
-<img src="https://raw.githubusercontent.com/drewlingering/drewsbsky/main/path/to/banner1.jpg" alt="Banner">
-
+![My Image](/assets/img/banner1.jpg)
 
 Your blog is now live and has been deployed!
 
