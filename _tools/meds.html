@@ -1,0 +1,64 @@
+---
+layout: default
+title: Medicine Tracker
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Medicine Tracker</title>
+  <style>
+    table { border-collapse: collapse; width: 100%; margin-top: 1em; }
+    th, td { border: 1px solid #ccc; padding: 6px 10px; text-align: left; }
+    td[contenteditable="true"] { background: #f9f9f9; }
+    .urgent { background-color: #ffe2e2; }
+    .soon { background-color: #fffacc; }
+  </style>
+</head>
+<body>
+  <h2>💊 Interactive Medicine Tracker</h2>
+  <p>Edit fields directly in the table. Run-out and reorder logic updates in real time.</p>
+
+  <table id="med-table">
+    <thead>
+      <tr>
+        <th>Medicine</th>
+        <th>Dispense Date</th>
+        <th>Packs</th>
+        <th>Units/Pack</th>
+        <th>Daily Use</th>
+        <th>Days Supply</th>
+        <th>Run Out</th>
+        <th>Lead Time</th>
+        <th>Reorder Date</th>
+        <th>Status</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td contenteditable="true">Medicine A</td>
+        <td contenteditable="true">2025-06-21</td>
+        <td contenteditable="true">1</td>
+        <td contenteditable="true">28</td>
+        <td contenteditable="true">1</td>
+        <td></td><td></td>
+        <td contenteditable="true">3</td>
+        <td></td><td></td>
+      </tr>
+      <tr>
+        <td contenteditable="true">Medicine C</td>
+        <td contenteditable="true">2025-06-25</td>
+        <td contenteditable="true">2</td>
+        <td contenteditable="true">28</td>
+        <td contenteditable="true">1</td>
+        <td></td><td></td>
+        <td contenteditable="true">3</td>
+        <td></td><td></td>
+      </tr>
+    </tbody>
+  </table>
+
+  <script>
+    function updateMedTable() {
+      const rows = document
