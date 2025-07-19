@@ -20,4 +20,36 @@ Liquid metal walls are explored to improve plasma-material interaction, heat rem
 - Studied **hydrogen retention**, **helium bubble dynamics**, and surface rejuvenation.
 
 ### **Zakharov's Concept**
-- Proposed a **full lithium wall** driven by **J×B forces
+- Proposed a **full lithium wall** driven by **J×B forces**.
+- Envisioned **recirculating lithium films** for divertor targets.
+
+### **ALEX (Argonne National Lab)**
+- Studied **heat transfer** and **MHD instabilities** in liquid metals.
+- Simulated **electrically conductive duct flows** relevant to first-wall designs.
+
+---
+
+## ⚙️ Engineering Highlights
+
+| Feature              | Details                                                                 |
+|----------------------|-------------------------------------------------------------------------|
+| **Material Choices** | Lithium (low-Z, tritium breeding), Tin, Gallium (high temp stability)   |
+| **Flow Methods**     | Static films, inductive pumps, capillary systems                        |
+| **MHD Effects**      | Hartmann layers, J×B forces, thermo-convection, flow adhesion control    |
+| **Benefits**         | Self-healing walls, reduced erosion, better heat management             |
+
+---
+
+## 💡 Why It Matters
+
+Liquid metal systems could solve persistent issues with solid PFCs like tungsten:
+- **Erosion resistance**
+- **Neutron damage tolerance**
+- **Passive heat removal**
+- **Hydrogen inventory control**
+
+These ideas feed into future fusion designs where **steady-state operation**, **tritium self-sufficiency**, and **compact layouts** are key.
+
+---
+
+*Want to explore flow stability equations, compare lithium vs tin in plasma-facing roles, or look at how this ties into blanket breeding concepts?*
