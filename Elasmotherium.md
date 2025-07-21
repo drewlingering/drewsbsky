@@ -1,4 +1,7 @@
 # 🦏 Paraceratherium vs. 🦄 Elasmotherium: Prehistoric Giants Compared
+
+https://www.facebook.com/photo?fbid=122249856542233746&set=a.122217968126233746
+
 Two titans from Earth’s distant past—each legendary in its own way—reveal how evolution shaped radically different forms to thrive in dramatically different environments. Two prehistoric giants—one a hornless colossus, the other a shaggy unicorn—captivate imaginations for very different reasons. Here’s how they stack up:
 
 🦏 **Paraceratherium vs. 🦄 Elasmotherium: Prehistoric Giants You’ve Never Heard Of**
