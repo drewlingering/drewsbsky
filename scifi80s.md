@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "15 Banned Sci‑Fi Movies of the 80s You Can Finally Watch Uncut"
+title: "15 Sci‑Fi Movies of the 80s You Can Finally Watch Uncut"
 date: 2025-12-12 02:00:00 +0000
 categories: film sci-fi censorship
 tags: [1980s, sci-fi, video nasties, cult cinema, telescope]
 ---
 
-## The 15 banned sci‑fi movies (1980s)
+## The 15 sci‑fi movies (1980s)
 
 | # | Title | Year | Link |
 |---|-------|------|------|
@@ -30,6 +30,6 @@ tags: [1980s, sci-fi, video nasties, cult cinema, telescope]
 
 ### Notes
 
-- **Scope:** These titles were banned or heavily censored in some regions during the 1980s (or adjacent VHS era), and are now widely available uncut.
+- **Scope:** These titles were in some regions during the 1980s (or adjacent VHS era), and are now widely available uncut.
 - **Links:** Trailer links are provided for quick reference. Replace with streaming or Blu‑ray store links as needed.
-- **Attribution:** Inspired by the Telescope video “15 Banned Sci‑Fi Movies of the 80s You Can Finally Watch Uncut.”
+- **Attribution:** Inspired by the Telescope video “15 Sci‑Fi Movies of the 80s You Can Finally Watch Uncut.”
