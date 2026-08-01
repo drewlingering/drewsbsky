@@ -2,13 +2,13 @@
 ## Table of Contents
 
 ### Part 1
-1. [CHAPTER 1 — THE SIGNAL](skypiercer/├──chapter01.md)
-2. [CHAPTER 2 — FIRST CONTACT](skypiercer/├──chapter02.md)
-3. [CHAPTER 3 — THE TETHER](skypiercer/├──chapter03.md)
-4. [CHAPTER 4 — THE NEVER‑LANDING DOCTRINE](skypiercer/├──hapter04.md)
-5. [CHAPTER 5 — THE REACTOR TRUTH](skypiercer/├──chapter05.md)
-6. [CHAPTER 6 — MUTINY IN THE CLOUDS](skypiercer/├──chapter06.md)
-7. [CHAPTER 8 — THE LANDING](skypiercer/├──chapter08.md)
+1. [CHAPTER 1 — THE SIGNAL](├──chapter01)
+2. [CHAPTER 2 — FIRST CONTACT](├──chapter02)
+3. [CHAPTER 3 — THE TETHER](├──chapter03.md)
+4. [CHAPTER 4 — THE NEVER‑LANDING DOCTRINE](├──hapter04)
+5. [CHAPTER 5 — THE REACTOR TRUTH](├──chapter05)
+6. [CHAPTER 6 — MUTINY IN THE CLOUDS](├──chapter06)
+7. [CHAPTER 8 — THE LANDING](├──chapter08)
 
 ### Part 2
 8. [CHAPTER 9 — SKYBRIDGE STATION](skypiercer/├──chapter09.md)
