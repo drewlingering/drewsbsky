@@ -36,7 +36,6 @@
 
 ## Chapter 1 — The Signal
 
-(Expanded from your Episode 1 outline)
 
 Seven years after the Freeze, Snowpiercer carved its endless path through the white void — a steel lifeline dragging humanity across a dead world. The storm season had grown unpredictable, the atmosphere more violent than Melanie’s old climate models ever predicted. But tonight, something stranger than weather pressed against the train’s sensors.
 
