@@ -1,6 +1,6 @@
 *lewis grassic gibbon marxist writer whose novel sunset song has gossip as a major theme probably to underline the dedication he has to fiction since fiction involves no real caracter in principle it is not news wither but maybe a nod to propensity for bourgeouis notions of the art if gossip*
 
-That's an interesting reading, and it isn't entirely at odds with how some critics have interpreted [**Lewis Grassic Gibbon](https://outlook.live.com/people/0/Lewis+Grassic+Gibbon?EntityRepresentationId=c3ce02ab-fc75-8f16-89ef-b4f35cc92d02)**
+That's an interesting reading, and it isn't entirely at odds with how some critics have interpreted **Lewis Grassic Gibbon**
 
 In ***Sunset Song*** **(1932)**, gossip is everywhere in Kinraddie. The community constantly observes, judges, speculates about and talks about the lives of others. On one level, Gibbon uses gossip realistically to portray a small rural Scottish community. But it also serves a social and ideological function.
 
