@@ -207,6 +207,7 @@ The breakthrough creators who shaped modern superheroes would roughly distribute
 | Chris Claremont | X-Men architect | Progressive |
 | Frank Miller | The Dark Knight Returns, Daredevil | Libertarian → Conservative |
 | Alan Moore | Watchmen, V for Vendetta | Anarchist left |
+|----------|----------|----------|
 ### The surprising conclusion
 If you look at the **foundational creators**, neither Marvel nor DC emerges as distinctly conservative.
 
