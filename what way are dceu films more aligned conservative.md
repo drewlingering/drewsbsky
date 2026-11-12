@@ -204,8 +204,8 @@ The breakthrough creators who shaped modern superheroes would roughly distribute
 | Jack Kirby | Captain America, Fantastic Four, Thor, X-Men, Avengers (co-creator) | Patriotic liberal |
 | Steve Ditko | Spider-Man, Doctor Strange (co-creator) | Libertarian / Objectivist |
 | Dennis O'Neil | Batman, Green Lantern/Green Arrow revitalisation | Liberal reformist |
-| Chris Claremont | Long-running X-Men architect | Progressive |
-| Frank Miller | The Dark Knight Returns, Daredevil | Libertarian → later more conservative on security issues |
+| Chris Claremont | X-Men architect | Progressive |
+| Frank Miller | The Dark Knight Returns, Daredevil | Libertarian → Conservative |
 | Alan Moore | Watchmen, V for Vendetta | Anarchist left |
 ### The surprising conclusion
 If you look at the **foundational creators**, neither Marvel nor DC emerges as distinctly conservative.
