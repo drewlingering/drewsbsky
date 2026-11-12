@@ -1,4 +1,4 @@
-i think this reflects maybe hollywood rather than the comics lets reflect now on what comic book readers typically are - they re often collector items so require a steady income and intellectual engagementthis can change as new movements take holdfinally the writers of each comic franchise that has broke thru into main stream cinema and what political or other alignment they have
+*i think this reflects maybe hollywood rather than the comics lets reflect now on what comic book readers typically are - they re often collector items so require a steady income and intellectual engagementthis can change as new movements take holdfinally the writers of each comic franchise that has broke thru into main stream cinema and what political or other alignment they have*
 
   That's a much deeper question, because we can separate three things that are often conflated:
 
