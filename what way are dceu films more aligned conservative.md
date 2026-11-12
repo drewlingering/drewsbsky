@@ -196,18 +196,29 @@ This is one of the strongest progressive currents in mainstream comics.
 ### If we simplify
 The breakthrough creators who shaped modern superheroes would roughly distribute as follows:
 
-| Creator | Major Contributions | Rough Alignment |
-|----------|----------|----------|
-| Jerry Siegel | Co-creator of Superman | Liberal populist |
-| Joe Shuster | Co-creator of Superman | Liberal populist |
-| Stan Lee | Spider-Man, Fantastic Four, Avengers, X-Men (co-creator/editor) | Liberal humanist |
-| Jack Kirby | Captain America, Fantastic Four, Thor, X-Men, Avengers (co-creator) | Patriotic liberal |
-| Steve Ditko | Spider-Man, Doctor Strange (co-creator) | Libertarian / Objectivist |
-| Dennis O'Neil | Batman, Green Lantern/Green Arrow revitalisation | Liberal reformist |
-| Chris Claremont | X-Men architect | Progressive |
-| Frank Miller | The Dark Knight Returns, Daredevil | Libertarian → Conservative |
-| Alan Moore | Watchmen, V for Vendetta | Anarchist left |
-|----------|----------|----------|
+The table is valid **GitHub Flavored Markdown**, but tables aren’t supported by every Markdown renderer. The page outside GitHub may be using a renderer that doesn’t enable GFM tables. If you can configure it, enable GFM; otherwise, replace the Markdown table with HTML:
+
+<table>
+  <thead>
+    <tr>
+      <th>Creator</th>
+      <th>Major Contributions</th>
+      <th>Rough Alignment</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>Jerry Siegel</td><td>Co-creator of Superman</td><td>Liberal populist</td></tr>
+    <tr><td>Joe Shuster</td><td>Co-creator of Superman</td><td>Liberal populist</td></tr>
+    <tr><td>Stan Lee</td><td>Spider-Man, Fantastic Four, Avengers, X-Men (co-creator/editor)</td><td>Liberal humanist</td></tr>
+    <tr><td>Jack Kirby</td><td>Captain America, Fantastic Four, Thor, X-Men, Avengers (co-creator)</td><td>Patriotic liberal</td></tr>
+    <tr><td>Steve Ditko</td><td>Spider-Man, Doctor Strange (co-creator)</td><td>Libertarian / Objectivist</td></tr>
+    <tr><td>Dennis O'Neil</td><td>Batman, Green Lantern/Green Arrow revitalisation</td><td>Liberal reformist</td></tr>
+    <tr><td>Chris Claremont</td><td>X-Men architect</td><td>Progressive</td></tr>
+    <tr><td>Frank Miller</td><td>The Dark Knight Returns, Daredevil</td><td>Libertarian → Conservative</td></tr>
+    <tr><td>Alan Moore</td><td>Watchmen, V for Vendetta</td><td>Anarchist left</td></tr>
+  </tbody>
+</table>
+
 ### The surprising conclusion
 If you look at the **foundational creators**, neither Marvel nor DC emerges as distinctly conservative.
 
