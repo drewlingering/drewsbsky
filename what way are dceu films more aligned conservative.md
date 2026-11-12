@@ -196,17 +196,17 @@ This is one of the strongest progressive currents in mainstream comics.
 ### If we simplify
 The breakthrough creators who shaped modern superheroes would roughly distribute as follows:
 
-| Creator | Rough alignment |
-| --- | --- |
-| Jerry Siegel | Liberal populist |
-| Joe Shuster | Liberal populist |
-| Stan Lee | Liberal humanist |
-| Jack Kirby | Patriotic liberal |
-| Steve Ditko | Libertarian/Objectivist |
-| Frank Miller | Libertarian to conservative |
-| Alan Moore | Anarchist left |
-| Chris Claremont | Progressive |
-| Dennis O'Neil | Liberal reformist |
+| Creator | Major Contributions | Rough Alignment |
+|----------|----------|----------|
+| Jerry Siegel | Co-creator of Superman | Liberal populist |
+| Joe Shuster | Co-creator of Superman | Liberal populist |
+| Stan Lee | Spider-Man, Fantastic Four, Avengers, X-Men (co-creator/editor) | Liberal humanist |
+| Jack Kirby | Captain America, Fantastic Four, Thor, X-Men, Avengers (co-creator) | Patriotic liberal |
+| Steve Ditko | Spider-Man, Doctor Strange (co-creator) | Libertarian / Objectivist |
+| Dennis O'Neil | Batman, Green Lantern/Green Arrow revitalisation | Liberal reformist |
+| Chris Claremont | Long-running X-Men architect | Progressive |
+| Frank Miller | The Dark Knight Returns, Daredevil | Libertarian → later more conservative on security issues |
+| Alan Moore | Watchmen, V for Vendetta | Anarchist left |
 ### The surprising conclusion
 If you look at the **foundational creators**, neither Marvel nor DC emerges as distinctly conservative.
 
